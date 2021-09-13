@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779661753679",
+    "project_id": "doineedit-543c6",
+    "storage_bucket": "doineedit-543c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779661753679:android:0d4b77eda0028ea37e593a",
+        "android_client_info": {
+          "package_name": "com.example.do_i_need_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779661753679-c8bejs47k27chdkh7nqumeflg4u2phnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbbYgFfXR77Z7mCp32FdJ6gtl-fSRIfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779661753679-c8bejs47k27chdkh7nqumeflg4u2phnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
